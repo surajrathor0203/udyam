@@ -4,7 +4,7 @@ import './registrationPage.css';
 // Extracted form schema based on actual Udyam portal
 const FORM_SCHEMA = {
   step1: {
-    title: "Aadhaar Verification With OTP",
+    title: "Aadhaa Verification With OTP",
     subtitle: "UDYAM REGISTRATION FORM - For New Enterprise who are not Registered yet as MSME",
     fields: [
       {
